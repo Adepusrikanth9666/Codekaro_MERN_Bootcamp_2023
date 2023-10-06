@@ -1,0 +1,55 @@
+HTML is all about tags (building like a home by step by step proces)
+
+2 tags -> opening tag and closing tags
+
+
+ELEMENT -- > <opening_tag> CONTENT </closing_tag> 
+
+Open_tag also --> <img/>
+
+heading tags --> h1,h2,h3,h4,h5,h6
+
+Paragrph_tag --> <p> text </p>
+
+Strong_tag --> <strong> content will be bold <strong>
+Italic_tag --> <i> content will be italic </i>
+
+Image_tag --> <img src="" height="" width="" alt="" />
+Video_tag --> <video src=""" controls loop poster="" autoplay  muted/>
+    loop --> video palys automatically at end
+    poster --> its same like thumbline
+    autoplay --> even we have to click on play btn (we have to add MUTED to play automatically)
+
+LISTS:-
+
+Two types
+1.ordered LISTS
+2.unordered LISTS
+
+1.ordered LISTS
+<ol type="aorA" (for roman-iorI) start="value">
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+</ol>
+
+
+2.unordered LISTS
+
+<ul type=""(disc(default),circle,square,none(reoves)) >
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+    <li>content</li>
+</ul>
+
+
+EMBEDS:-YOUTUBE or TWITTER or INSTAGRAM (play youtube vode by coping the embad link from youtuve)
+
+
+TABLES:-
+
+
+For FREE Images :- unplash website
+For Free Videos :- Pixels website
